@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c0572911bb822746b25e7f4740c15f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tower: {instanceID: 0}
+  - UIPrefab: {fileID: 162300702615821462, guid: cf3cae7528930a246b4213a78abe50f3, type: 3}
+  - UI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
     private GameObject OverPanel;
     [SerializeField]
     private TMPro.TextMeshProUGUI moneyText;
+    [SerializeField,Header("³õÊ¼½ð±Ò")]
     private int money = 100;
     [SerializeField]
     public int Money { set { money = value; UpdateMoneyShow(); } get { return money; } }
